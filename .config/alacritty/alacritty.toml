@@ -1,0 +1,14 @@
+import = [
+  "/home/kamil/.nvm/versions/node/v20.14.0/lib/node_modules/alacritty-themes/themes/Dracula.toml"
+]
+
+[shell]
+program = "/bin/zsh"
+args = ["-l"]
+
+#[window]
+#startup_mode = "Fullscreen"
+
+[font]
+normal = { family = "Hack Nerd Font", style = "Regular" } # default family: monospace
+size = 11.25

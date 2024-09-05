@@ -1,9 +1,9 @@
 # dotfiles
 
 
-## terminal-config
+### terminal config
 
-- Alacritty
+- [Alacritty](https://alacritty.org/)
 ```
 sudo add-apt-repository ppa:aslatter/ppa
 sudo apt install alacritty
@@ -11,8 +11,14 @@ mkdir ~/.config/alacritty
 touch ~/.config/alacritty/alacritty.toml
 ```
 
+- [tmux](https://github.com/tmux/tmux/wiki/Installing)
+
+- [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
+
+- [oh-my-zsh](https://ohmyz.sh/#install)
+
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
-  https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Hack.zip
+  [v3.2.1/Hack.zip](https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/Hack.zip)
 
 - [npm](https://phoenixnap.com/kb/update-node-js-version)
 
@@ -20,6 +26,7 @@ touch ~/.config/alacritty/alacritty.toml
 
 - [neovim](https://github.com/neovim/neovim)
 
+  `sudo update-alternatives --all` - switch to neovim as default editor
+
 - [packer.nvim](https://github.com/wbthomason/packer.nvim)
 
-- `sudo update-alternatives --all` - switch to neovim as default editor
