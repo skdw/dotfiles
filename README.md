@@ -12,6 +12,7 @@ touch ~/.config/alacritty/alacritty.toml
 ```
 
 - [tmux](https://github.com/tmux/tmux/wiki/Installing)
+  - `~/.tmux.conf.local` uncomment `tmux-plugins`
 
 - [zsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH)
 
